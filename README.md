@@ -1,3 +1,5 @@
+![Dashboard Screenshot](Marketing-Analysis-Dashboard)
+
 # Marketing Campaign Performance & ROI Analysis
 
 ## 📌 Project Overview
